@@ -1,0 +1,165 @@
+.alignleft {
+    float: left;
+    text-size-adjust: 30%;
+    
+    padding-left:90px;
+  
+
+    
+  
+  
+ 
+}
+.aligncenter {
+    float:center ;
+   text-align: center;
+  padding-left: 490px;
+  padding-bottom: 20px;
+
+ 
+    justify-content: center;
+    justify-content: flex-start;
+    
+  
+ 
+ }
+ .centercontent{
+ 	text-indent: 40px;
+ 	text-align: center;
+ 	 padding-left: 490px;
+ 	 padding-bottom: 20px;
+ }
+ .paracenter{
+ 	float:center;
+ 	text-align: center;
+ 	 padding-bottom: 20px;
+ 	 margin-top: -80px;
+ }
+ .aligncontent{
+ 	float:left;
+ 	display: inline;
+ 	padding-left: 30px;
+
+  text-decoration: justify;
+  text-align: left;
+  text-align: left;
+  clear:both;
+  margin-top: -180px;
+  
+
+
+
+ }
+ .para{
+ 	text-indent: 10px;
+
+ }
+
+.vertical{
+	text-align: right;
+	float:right;
+	 border-left: 5px solid green;
+  height: 300px;
+  text-size-adjust:20%;
+  display: inline-grid;
+ margin-right: 30px;
+ padding-left: 10px;
+  top:0%;
+ 
+
+  
+}
+.circle {
+        border-radius: 50%;
+        width: 34px;
+        height: 24px;
+        padding: 10px;
+        background: #fff;
+        border: 1px solid #000;
+        color: #000;
+        text-align: center;
+        font: 32px Arial, sans-serif;
+        justify-content:space-between;
+        justify-content: space-around;
+       
+
+        }
+        .header{
+        	justify-content: space-between;
+        	margin-top: 10px;
+        }
+        .nextcenter{
+        	text-align:center;
+            margin-right: 30px;
+        	float:center;
+        	margin-bottom: 10px;
+
+
+        }
+        .centerhead{
+        	text-align:center;
+           padding-right: 400px;
+            margin-right: 100px;
+        	margin-top: 10px;
+        
+        	float:center ;
+   text-align: center;
+  padding-left: 50px;
+
+ 
+
+
+        }
+        .bottomright{
+        	text-align: right;
+        	float:right;
+        	padding-left: 800px;
+             margin-right: 200px;
+             margin-bottom: 10px;
+             margin-top: -190px;
+
+        	
+
+        }
+        .bottomrright{
+        	text-align: right;
+        	float:right;
+        	padding-left: 800px;
+             margin-right: 200px;
+             margin-bottom: 20px;
+             margin-top: -20px;
+             margin-bottom:-20px;
+
+        	
+
+        }
+       .bottomrrcontent{
+       	text-align: right;
+        	float:right;
+             padding-left: 800px;
+             margin-right: 200px;
+            margin-top: -90px;
+           
+    
+
+
+        	
+
+       }
+       .bottomrcontent{
+       	text-align: right;
+        	float:right;
+             padding-left: 800px;
+             margin-right: 200px;
+            margin-bottom: -100px;
+    
+T
+
+        	
+
+            .container{
+            	float: left;
+            	margin-bottom: 30px;
+
+             }
+
